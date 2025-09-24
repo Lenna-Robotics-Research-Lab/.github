@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Lenna Logo 2 wb.jpg" alt="Lenna Robotics Logo" width="150"/>
+  <img src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/Lenna%20Logo%202%20wb.png" alt="Lenna Robotics Logo" width="150"/>
 </p>
 
 <h1 align="center">
