@@ -1,6 +1,16 @@
 <p align="center">
-  <img src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/Lenna%20Logo%202%20wb.png" alt="Lenna Robotics Logo" width="150"/>
+  A partnership in innovation.
 </p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/Lenna%20Logo%202%20wb.png" alt="Lenna Robotics Logo" width="150">
+    </td>
+    <td align="center">
+      <img src="images/iust-logo.png" alt="IUST University Logo" width="150">
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">
   Lenna Robotics Research Team
