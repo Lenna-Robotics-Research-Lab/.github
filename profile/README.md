@@ -42,8 +42,8 @@ Here's a look at what we've been working on.
     !([URL_TO_LMRO_IMAGE_OR_GIF])
 
 ### 2. Legacy Platforms
-* **Self-Balancing Robot:** [Briefly describe the project, e.g., "An exploration into dynamic stability and control theory using an IMU and PID controllers."]
-* **Mobile Robot V1:** [Briefly describe the project, e.g., "Our first-generation mobile platform for learning path planning and obstacle avoidance."]
+* **Self-Balancing Robot:
+* **Mobile Robot V1:
 
 ---
 
