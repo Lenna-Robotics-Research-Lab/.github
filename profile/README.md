@@ -41,9 +41,10 @@ Here's a look at what we've been working on.
     *It's highly effective to add a GIF or image of your robot in action here!*
     !([URL_TO_LMRO_IMAGE_OR_GIF])
 
-### 2. Legacy Platforms
-* **Self-Balancing Robot:
-* **Mobile Robot V1:
+### 2. Self-Balancing Robot
+* **Description:** Our exploration into dynamic stability and control theory, developed as the capstone project for the mechatronics course (Spring 2022) at Iran University of Science and Technology.
+* **Status:** Completed
+* **Repository:** [Lenna-Self-Balancing-Robot](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Self-Balancing-Robot)
 
 ---
 
