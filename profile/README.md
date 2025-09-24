@@ -34,12 +34,9 @@ Since Summer 2023, our main focus has been pioneering new solutions in mobile ro
 Here's a look at what we've been working on.
 
 ### 1. LMRO Project (Main Focus)
-* **Description:** [Add a 1-2 sentence description of the LMRO project. What are its goals? What technology does it use? e.g., "An autonomous mobile robot platform designed for indoor navigation and manipulation using ROS 2 and AI-powered computer vision."]
-* **Status:** [e.g., In Development, Active Research, Completed]
-* **Repository:** [Link to the GitHub repo if it's public]
-* **Visual:**
-    *It's highly effective to add a GIF or image of your robot in action here!*
-    !([URL_TO_LMRO_IMAGE_OR_GIF])
+* **Description:** An open-source autonomous mobile robot featuring a distributed control architecture. It utilizes ROS for high-level robot control and a real-time embedded board for low-level hardware management.
+* **Status:** Completed / Archived
+* **Repository:** [Lenna-Mobile-Robot-ONE](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Mobile-Robot-ONE)
 
 ### 2. Self-Balancing Robot
 * **Description:** Our exploration into dynamic stability and control theory, developed as the capstone project for the mechatronics course (Spring 2022) at Iran University of Science and Technology.
