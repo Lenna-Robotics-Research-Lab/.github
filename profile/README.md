@@ -54,4 +54,4 @@ We are passionate about sharing our work and collaborating with others. If you h
 -   **Primary Contact:** [lenna.robotics@gmail.com](mailto:lenna.robotics@gmail.com)
 -   **Team Members:**
     -   Erfan Raizati: [erf.raizati@gmail.com](mailto:erf.raizati@gmail.com)
-    -   Rian Hajizadeh: [rian.hajizadeh@gmail.com](mailto:rian.hajizadeh@gmail.com)
+    -   Arian Hajizadeh: [rian.hajizadeh@gmail.com](mailto:rian.hajizadeh@gmail.com)
