@@ -12,7 +12,7 @@
   <em>Exploring the frontiers of autonomous systems at Iran University of Science and Technology.</em>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Since-2022-blue" alt="Since 2022">
+  <img src="https://img.shields.io/badge/Since-2022-blue" alt="Since 2023">
   <img src="https://img.shields.io/badge/Focus-Mobile_Robotics-green" alt="Focus: Mobile Robotics">
   <img src="https://img.shields.io/badge/University-IUST-red" alt="University: IUST">
 </p>
@@ -23,7 +23,7 @@
 
 Welcome! We are a robotics research team based in the Electrical Engineering Research Labs Center at **Iran University of Science and Technology**.  
 
-Founded in Summer 2022, we began by exploring a range of robotics topics that led to the development of two core platforms:  
+Founded in Winter 2023, we began by exploring a range of robotics topics that led to the development of two core platforms:  
 - A **self-balancing robot**  
 - An **autonomous mobile robot**  
 
