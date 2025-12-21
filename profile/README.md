@@ -21,13 +21,15 @@
 
 ## 🤖 About Us
 
-Welcome! We are a robotics research team based in the Electrical Engineering Research Lab at **Iran University of Science and Technology**.
+Welcome! We are a robotics research team based in the Electrical Engineering Research Labs Center at **Iran University of Science and Technology**.  
 
-Our journey began in Summer 2022, and our early work on diverse robotics topics led to the creation of two key platforms:
--   A **Self-Balancing Robot**
--   An **Autonomous Mobile Robot**
+Founded in Summer 2022, we began by exploring a range of robotics topics that led to the development of two core platforms:  
+- A **self-balancing robot**  
+- An **autonomous mobile robot**  
 
-Since Summer 2023, our main focus has been pioneering new solutions in mobile robotics, which has transpired into our flagship **LMRO project**.
+Since Summer 2023, our primary focus has been advancing mobile robotics through our flagship **LMRO** platform, with an ongoing **ROS 2** implementation known as **LMR2**.  
+
+Lenna Robotics Lab has also expanded into teleoperation research, investigating control schemes for a **2‑DOF serial link teleoperation robot** under **time-delay** conditions.
 
 ---
 
