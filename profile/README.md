@@ -37,20 +37,20 @@ Lenna Robotics Lab has also expanded into teleoperation research, investigating 
 
 Here's a look at what we've been working on.
 
-### 1. LMRO Project 
+### 1. Lenna Mobile Robot ONE (LMRO) Project 
 * **Description:** An open-source autonomous mobile robot featuring a distributed control architecture. It utilizes ROS melodic for high-level robot control and a real-time embedded board for low-level hardware management. 
 * **Status:** Completed / Archived
 * **Repository:** [Lenna-Mobile-Robot-ONE](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Mobile-Robot-ONE)
 
-### 2. LMR2 Project
+### 2. Lenna Mobile Robot 2 (LMR2) Project
 * **Description:** An open-source autonomous mobile robot utilizing ROS2 Humble for high-level robot control and the same real-time embedded board and architecture used in LMRO project.
 * **Status:** Under Developement
 
-### 3. LTOR1 Project
+### 3. Lenna TeleOperation Robot 1 (LTOR1) Project
 *  **Description:** A control scheme for a teleoperation robot with time delay.
 *  **Status:** Under Research
 
-### 2. Self-Balancing Robot
+### 2. Lenna Self-Balancing Robot (LSBR) Project
 * **Description:** Our exploration into dynamic stability and control theory, developed as the capstone project for the mechatronics course (Spring 2022) at Iran University of Science and Technology.
 * **Status:** Completed
 * **Repository:** [Lenna-Self-Balancing-Robot](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Self-Balancing-Robot)
