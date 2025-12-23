@@ -2,7 +2,7 @@
   A partnership in innovation.
 </p>
 <p align="center">
-  <img src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/newlogo%201%20.png" alt="Lenna Robotics Logo" width="150"/>
+  <img src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/newlogo%201.png" alt="Lenna Robotics Logo" width="150"/>
 </p>
 <h1 align="center">
   Lenna Robotics Research Lab
