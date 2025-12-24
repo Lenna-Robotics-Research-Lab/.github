@@ -13,7 +13,7 @@
   <br />
   <br />
   <img src="https://img.shields.io/badge/Since-2023-blue" alt="Since 2023">
-  <img src="https://img.shields.io/badge/Focus-Mobile_Robotics-green" alt="Focus: Mobile Robotics">
+  <img src="https://img.shields.io/badge/Focus-Robotics-green" alt="Focus: Robotics">
   <img src="https://img.shields.io/badge/University-IUST-red" alt="University: IUST">
 </p>
 
