@@ -12,7 +12,7 @@
 
   <!-- Dark mode logo -->
   <img
-    src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/Lenna-inverted-logo-removebg-preview.png"
+    src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/Lenna-inverted-logo-removebg-preview.png#gh-dark-mode-only"
     alt="Lenna Robotics Logo"
     width="500"
   />
