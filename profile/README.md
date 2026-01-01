@@ -5,7 +5,7 @@
 <div align="center">
   <!-- Light mode logo -->
   <img
-    src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/logo-light.png#gh-light-mode-only"
+    src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/newlogo.png#gh-light-mode-only"
     alt="Lenna Robotics Logo"
     width="500"
   />
