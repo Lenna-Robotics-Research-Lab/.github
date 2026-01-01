@@ -2,7 +2,7 @@
   A partnership in innovation.
 </p>
 
-<p align="center">
+<div align="center">
   <!-- Light mode logo -->
   <img
     src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/logo-light.png#gh-light-mode-only"
@@ -16,7 +16,7 @@
     alt="Lenna Robotics Logo"
     width="500"
   />
-</p>
+</div>
 
 <h1 align="center">
   Lenna Robotics Research Lab
