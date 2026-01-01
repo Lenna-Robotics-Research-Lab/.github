@@ -1,9 +1,23 @@
 <p align="center">
   A partnership in innovation.
 </p>
+
 <p align="center">
-  <img src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/newlogo.png" alt="Lenna Robotics Logo" width="500"/>
+  <!-- Light mode logo -->
+  <img
+    src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/logo-light.png#gh-light-mode-only"
+    alt="Lenna Robotics Logo"
+    width="500"
+  />
+
+  <!-- Dark mode logo -->
+  <img
+    src="https://github.com/Lenna-Robotics-Research-Lab/.github/blob/main/profile/images/Lenna-inverted-logo-removebg-preview.png"
+    alt="Lenna Robotics Logo"
+    width="500"
+  />
 </p>
+
 <h1 align="center">
   Lenna Robotics Research Lab
 </h1>
