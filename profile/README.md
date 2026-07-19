@@ -35,7 +35,7 @@
 
 ## 🤖 About Us
 
-Welcome! We started as a robotics research team based in the robotics research lab at the Electrical Engineering Research Labs Center at **Iran University of Science and Technology** under the supervision of \href{Dr. S. M. Esmailzadeh}{https://scholar.google.com/citations?user=BbeZxAQAAAAJ&hl=en}  
+Welcome! We started as a robotics research team based in the Robotics Research Lab at the Electrical Engineering Research Labs Center at **Iran University of Science and Technology** under the supervision of [Dr. S. M. Esmailzadeh](https://scholar.google.com/citations?user=BbeZxAQAAAAJ&hl=en).
 
 Founded in Winter 2023, we began by exploring a range of robotics topics that led to the development of two core platforms:  
 - A **self-balancing robot**  
