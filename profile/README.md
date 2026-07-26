@@ -64,7 +64,7 @@ Here's a look at what we've been working on.
 *  **Description:** A control scheme for a teleoperation robot with time delay.
 *  **Status:** Under Research
 
-### 2. Lenna Self-Balancing Robot (LSBR) Project
+### 4. Lenna Self-Balancing Robot (LSBR) Project
 * **Description:** Our exploration into dynamic stability and control theory, developed as the capstone project for the mechatronics course (Spring 2022) at Iran University of Science and Technology.
 * **Status:** Completed
 * **Repository:** [Lenna-Self-Balancing-Robot](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Self-Balancing-Robot)
