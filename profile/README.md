@@ -1,5 +1,5 @@
 <p align="center">
-  A partnership in innovation.
+  true friendship builds dreams
 </p>
 
 <div align="center">
