@@ -58,8 +58,9 @@ Here's a look at what we've been working on.
 
 ### 2. Lenna Mobile Robot 2 (LMR2) Project
 * **Description:** An open-source autonomous mobile robot utilizing ROS2 Humble for high-level robot control and the same real-time embedded board and architecture used in LMRO project.
-* **Status:** [Lenna-Stereo-Camera](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Stereo-Camera)
-
+* **Status:** Pending Launch 
+* **Repositories:** [Lenna-Stereo-Camera](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Stereo-Camera)
+  
 ### 3. Lenna TeleOperation Robot 1 (LTOR1) Project
 *  **Description:** A control scheme for a teleoperation robot with time delay.
 *  **Status:** Under Research
