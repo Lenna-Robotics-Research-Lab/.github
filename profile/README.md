@@ -50,22 +50,25 @@ Lenna Robotics Lab has also expanded into teleoperation research, investigating 
 ## 🚀 Our Projects
 
 Here's a look at what we've been working on.
-
-### 1. Lenna Mobile Robot ONE (LMRO) Project 
-* **Description:** An open-source autonomous mobile robot featuring a distributed control architecture. It utilizes ROS melodic for high-level robot control and a real-time embedded board for low-level hardware management. 
+### 1. Lenna Mobile Robot
+* **Description:** The core hardware and simulation resources common to all Lenna mobile robot platforms. 
+* **Repositories:** [LMR-MCU-Board](https://github.com/Lenna-Robotics-Research-Lab/LMRO-MCU-Board), [LMR-Simulation](https://github.com/Lenna-Robotics-Research-Lab/LMRO-Simulation), [LMR-CAD](https://github.com/Lenna-Robotics-Research-Lab/LMRO-CAD), [LMR-Communication-Shield](https://github.com/Lenna-Robotics-Research-Lab/LMRO-Communication-Shield)
+  
+### 2. Lenna Mobile Robot ONE (LMRO) Project 
+* **Description:** A completed ROS melodic/noetic based autonomous mobile robot platform. It features a distributed control architecture that separates high-level processing (NVIDIA Jetson nano b0) from real-time hardware control (a custom ARM-based embedded board, the "Bardia Board") . This repository serves as the full documentation for the robot's software stack and user manual 
 * **Status:** Completed / Archived
-* **Repositories:** [Lenna-Mobile-Robot-ONE](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Mobile-Robot-ONE), [LMRO-MCU-Board](https://github.com/Lenna-Robotics-Research-Lab/LMRO-MCU-Board), [LMRO-Simulation](https://github.com/Lenna-Robotics-Research-Lab/LMRO-Simulation), [LMRO-CAD](https://github.com/Lenna-Robotics-Research-Lab/LMRO-CAD), [LMRO-Communication-Shield](https://github.com/Lenna-Robotics-Research-Lab/LMRO-Communication-Shield)
+* **Repositories:** [Lenna-Mobile-Robot-ONE](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Mobile-Robot-ONE), 
 
-### 2. Lenna Mobile Robot 2 (LMR2) Project
-* **Description:** An open-source autonomous mobile robot utilizing ROS2 Humble for high-level robot control and the same real-time embedded board and architecture used in LMRO project.
+### 3. Lenna Mobile Robot 2 (LMR2) Project
+* **Description:** An upcoming ROS2-based successor to the LMRO. It utilizes the same distributed control architecture and real-time embedded board as the LMRO project but replaces the high-level ROS1 software stack with ROS2.
 * **Status:** Pending Launch 
 * **Repositories:** [Lenna-Stereo-Camera](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Stereo-Camera)
   
-### 3. Lenna TeleOperation Robot 1 (LTOR1) Project
+### 4. Lenna TeleOperation Robot 1 (LTOR1) Project
 *  **Description:** A control scheme for a teleoperation robot with time delay.
 *  **Status:** Under Research
 
-### 4. Lenna Self-Balancing Robot (LSBR) Project
+### 5. Lenna Self-Balancing Robot (LSBR) Project
 * **Description:** Our exploration into dynamic stability and control theory, developed as the capstone project for the mechatronics course (Spring 2022) at Iran University of Science and Technology.
 * **Status:** Completed
 * **Repository:** [Lenna-Self-Balancing-Robot](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Self-Balancing-Robot)
