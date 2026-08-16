@@ -52,12 +52,12 @@ Lenna Robotics Lab has also expanded into teleoperation research, investigating 
 Here's a look at what we've been working on.
 ### 1. Lenna Mobile Robot
 * **Description:** The core hardware and simulation resources common to all Lenna mobile robot platforms. 
-* **Repositories:** [LMR-MCU-Board](https://github.com/Lenna-Robotics-Research-Lab/LMRO-MCU-Board), [LMR-Simulation](https://github.com/Lenna-Robotics-Research-Lab/LMRO-Simulation), [LMR-CAD](https://github.com/Lenna-Robotics-Research-Lab/LMRO-CAD), [LMR-Communication-Shield](https://github.com/Lenna-Robotics-Research-Lab/LMRO-Communication-Shield)
+* **Repositories:** [LMR-MCU-Board](https://github.com/Lenna-Robotics-Research-Lab/LMRO-MCU-Board), [LMR-Simulation](https://github.com/Lenna-Robotics-Research-Lab/LMRO-Simulation), [LMR-CAD](https://github.com/Lenna-Robotics-Research-Lab/LMRO-CAD).
   
 ### 2. Lenna Mobile Robot ONE (LMRO) Project 
 * **Description:** A completed ROS melodic/noetic based autonomous mobile robot platform. It features a distributed control architecture that separates high-level processing (NVIDIA Jetson nano b0) from real-time hardware control (a custom ARM-based embedded board, the "Bardia Board") . This repository serves as the full documentation for the robot's software stack and user manual 
 * **Status:** Completed / Archived
-* **Repositories:** [Lenna-Mobile-Robot-ONE](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Mobile-Robot-ONE), 
+* **Repositories:** [Lenna-Mobile-Robot-ONE](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Mobile-Robot-ONE), [LMRO-Communication-Shield](https://github.com/Lenna-Robotics-Research-Lab/LMRO-Communication-Shield).
 
 ### 3. Lenna Mobile Robot 2 (LMR2) Project
 * **Description:** An upcoming ROS2-based successor to the LMRO. It utilizes the same distributed control architecture and real-time embedded board as the LMRO project but replaces the high-level ROS1 software stack with ROS2.
