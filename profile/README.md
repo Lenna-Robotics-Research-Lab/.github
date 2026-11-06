@@ -62,7 +62,7 @@ Here's a look at what we've been working on.
 ### 3. Lenna Mobile Robot 2 (LMR2) Project
 * **Description:** An upcoming ROS2-based successor to the LMRO. It utilizes the same distributed control architecture and real-time embedded board as the LMRO project but replaces the high-level ROS1 software stack with ROS2.
 * **Status:** Pending Launch 
-* **Repositories:** [Lenna-Stereo-Camera](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Stereo-Camera),[Lenna-Mobile-Robot2](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Mobile-Robot2)
+* **Repositories:** [Lenna-Mobile-Robot2](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Mobile-Robot2), [Lenna-Stereo-Camera](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Stereo-Camera)
   
 ### 4. Lenna TeleOperation Robot 1 (LTOR1) Project
 *  **Description:** A control scheme for a teleoperation robot with time delay.
